@@ -77,7 +77,7 @@ Proyecto de análisis exploratorio de datos (EDA) que utiliza Python y pandas pa
 - **Transacciones totales:** $456,000 en ventas
 
 ## 👨‍💻 Autor
-Desarrollado como parte del proyecto Core6 - Análisis de Datos con Python
+fcobeltran
 
 ---
 *Proyecto educativo enfocado en el análisis exploratorio de datos y manipulación con pandas.* 
